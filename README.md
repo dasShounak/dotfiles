@@ -1,5 +1,7 @@
 # dotfiles
 
+![chawal](https://i.redd.it/v4w3zllgrxy71.png)
+
 ### Packages
 1. acpi
 2. pywal
