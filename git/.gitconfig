@@ -1,0 +1,12 @@
+[alias]
+	co = checkout
+	br = branch
+	a = add
+	cm = commit -m
+	st = status
+	p = push
+	pl = pull
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[user]
+	email = shounakdas19@gmail.com
+	name = Shounak Das
