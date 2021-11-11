@@ -7,14 +7,10 @@
 4. i3-gaps
 5. rofi
 6. feh
-7. cava
-8. cbonsai
-9. pipes.sh
-10. fortune
-11. cowsay
-12. GNU stow
-13. lxappearance
-14. ohmyzsh
+7. GNU stow
+8. lxappearance
+9. ohmyzsh
+10. compton
 
 ### Usage
 1. Clone this repo.
