@@ -15,7 +15,7 @@
 ### Usage
 1. Clone this repo.
 2. `cd dotfiles/`
-3. `stow --adopt -vt ~ *`
+3. `stow --adopt -vt ~ */`
 4. You can also use the `-n` flag to simulate stow.
 5. Open **lxappearance** or equivalent software.
 6. Set the GTK, Icons, Cursor themes, and Fonts
