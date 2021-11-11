@@ -14,6 +14,7 @@
 11. cowsay
 12. GNU stow
 13. lxappearance
+14. ohmyzsh
 
 ### Usage
 1. Clone this repo.
