@@ -145,6 +145,7 @@ configuration {
       sorting-method:    "name";
   }
 }
-@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
-
+/* @theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi" */
+@theme "/home/kowalsky/.config/rofi/themes/spotlight-dark.rasi"
 /* vim:ft=css
+

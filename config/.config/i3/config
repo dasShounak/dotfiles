@@ -232,10 +232,12 @@ exec_always --no-startup-id xinput set-prop 'ETPS/2 Elantech Touchpad' 'libinput
 
 # Desktop background
 # #exec_always --no-startup-id feh --bg-scale /home/kowalsky/wallpapers/6.jpg
-exec_always --no-startup-id wal -i ~/wallpapers/sweet/
+exec_always --no-startup-id wal -i ~/wallpapers/sweet/8.jpg
 
 # i3-gaps
 for_window [class=".*"] border pixel 1
 gaps inner 10
 smart_borders on
 
+# Enable compton
+exec --no-startup-id compton -f
