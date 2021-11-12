@@ -9,10 +9,12 @@
 4. i3-gaps
 5. rofi
 6. feh
-7. GNU stow
+7. stow
 8. lxappearance
 9. ohmyzsh
 10. compton
+
+Install these packages before proceeding with the next steps.
 
 ### Usage
 1. Clone this repo.
